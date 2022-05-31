@@ -1,0 +1,1196 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/"><title>Three Special Events in the History of Technology for Creating, Organizing, and Sharing Information</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>29b0d7db-51af-4cb8-8d0e-ba2fcf6e2e47</md:uuid>
+</metadata>
+<content>
+<section id="Intro">
+<title>Introduction</title>
+<para id="id4936015">The development of technologies for encoding,
+storing, communicating, and exploiting information is a major
+feature in the history of the human species. Although this
+development has generally progressed smoothly over time, we feel it
+is valuable to identify three significant points of rapid change or
+“paradigm shifts.” The first and possibly most revolutionary change
+was the invention of writing and its companion, literacy—the
+transition from an oral to a writing culture. The second was the
+invention of the printing press—the transition from hand-writing to
+the print culture.</para>
+<para id="id4936042">We are now in the midst of a third transition
+to an electronic or digital culture. A convergence of several
+technologies has created new systems for dealing with information
+that are potentially as revolutionary as the development of
+literacy and the invention of the printing press. The base for this
+transition was established in the 1940s with the invention of the
+digital computer and the development of information theory. It was
+empowered by the invention of the transistor and integrated circuit
+and has blossomed thanks to the connectivity provided by the
+Internet and wireless technology and the storage provided by
+semiconductor, hard disk, and optical memory. The ever-increasing
+power of computer and communications hardware has been accompanied
+by ever more powerful software in the form of computer languages,
+operating systems, communication protocols, and search
+technologies.</para>
+<para id="id4936064">It may be that most people feel they live in a
+time of major change, but history reveals that few actually do. One
+purpose of this paper is to examine earlier transitions in order to
+establish that we are indeed currently in another paradigm shift. A
+second purpose is to challenge the usual pattern of discovering
+after the fact that something big has happened and then determining
+how to mitigate the damage or inefficiencies that seem inevitably
+to ensue from major change and how to take advantage of the new
+opportunities and capabilities that are opened. For example,
+literacy was first an improvement and extension of the oral
+tradition; it subsequently created completely new systems for human
+uses of information. The printing press was first an improvement on
+the hand-written method of producing books; it then transformed the
+entire literate world and extended it to the masses. Today, the
+information age has produced a setting in which new information
+systems will transform not only the way we develop and exploit
+information, but also the way we interact with each other.</para>
+<para id="id4936090">In this paper, we discuss in particular detail
+the educational publishing project, <link url="http://cnx.org"> Connexions </link>,
+as an example of a new technology that is both a natural evolution
+out of literacy and the printing press and a revolutionary change
+or paradigm shift that will be as disruptive as were writing and
+printing. The reason we do this in a historical context is to
+develop <cite><cite-title> Connexions </cite-title></cite> in a deliberate way, to achieve the positive
+goals we currently envisage for education as well as general
+information usage, and to use a strategy that will attempt to
+maximize the positive unintended consequences and minimize the
+negative ones. We try to take a “holistic” approach, taking into
+account what goes on (or can go on) in the human brain, what goes
+on (or can go on) in individuals or small groups, and what can go
+on in large societies or cultures.</para>
+<para id="id4936130">Because this short paper covers a large span
+of time, ideas, and history that cannot be fully developed, we
+provide a fairly comprehensive set of references.</para>
+</section>
+<section id="Literacy"><title>Literacy</title>
+<para id="id4936147"><quote display="block" id="idp1313664">The emergence of writing and literate activity
+some five thousand years ago transformed human life as profoundly
+as the earlier revolutions of intensive agriculture and language.
+<cite target-id="Goody"><cite-title>[Goody]</cite-title></cite></quote></para>
+<para id="id4936161">The earliest uses of writing were to record
+lists of inventories and of sale and purchase transactions. Later,
+writing served as a means of helping the memory of storytellers in
+the oral tradition—writing was used as a prompt, not as part of an
+intellectual or creative activity. The people who read used writing
+to help them remember stories they and their audiences already
+knew. Only later did people read stories that writers had created,
+not merely recorded.</para>
+<para id="id4936189"><quote display="block" id="idp673728">Without writing, the literate mind would not
+and could not think as it does, not only when engaged in writing
+but normally even when it is composing its thoughts in oral form.
+More than any other single invention, writing has transformed human
+consciousness. <cite target-id="Ong"><cite-title>[Ong, p. 78]</cite-title></cite></quote></para>
+<para id="id4936205">Resistance to change occurred even in the
+earliest stages of literacy. As intellectuals, leaders, and
+thinkers considered the merits of this new “technology” called
+writing and literacy, they predicted its potential shortcomings. In
+the <cite><cite-title>Phaedrus</cite-title></cite>, Plato has Socrates say that writing is inhuman, a
+pretender, establishing “outside the mind what in reality can be
+only in the mind,” then adding that “writing weakens the mind.”
+Perhaps writing does weaken the memory, just as the calculator may
+weaken the memorized knowledge of the multiplication tables or
+speed-dial may reduce the memory of telephone numbers. Experience
+has demonstrated, however, that some very positive personal and
+societal effects accompanied these “weakenings.”</para>
+<para id="id4936238">Some of the dire predictions came true, of
+course, because they were grounded in what was known. The positive
+things produced by literacy generally outweighed the negative but
+were often not predictable because nothing like them had ever
+existed. Literacy created a new culture, but it also destroyed part
+of the old one, and that should be kept in mind. This example
+illustrates the <cite><cite-title>Law of Unintended Consequences</cite-title></cite>.</para>
+<para id="id4936258">Many of the stories in the oral culture were
+structured in the style of poetry with rhyme, rhythm, and form to
+aid the memory. The telling of these stories was a performance by a
+highly skilled person with many tricks to help him/her remember and
+the ability to improvise and create on the fly. If a person in a
+story fell from favor, then they might disappear from the next
+telling. The story was “alive,” continuously adapting and
+changing.</para>
+<para id="id4936281">After writing came into general use, the
+culture of communication changed. Poetry evolved into a more
+compact and efficient prose, as memory aids were no longer needed.
+Similarly, the need to improvise vanished, and a larger group of
+people was able to tell (read) stories, with more “accuracy” but at
+a cost. The stories become frozen, perhaps even “dead.” They became
+separated from the teller and the listener, with an independent
+existence in written form.</para>
+<para id="id4936305"><quote display="block" id="idp2124896">But there’s a larger point here. Writing would
+also significantly add to the <emphasis>power</emphasis> [emphasis added] of the word,
+and in so doing it would change the nature of what could be
+thought. <cite target-id="Stephens"><cite-title>[Stephens, p. 17]</cite-title></cite></quote></para>
+<para id="id4936329">The earliest writing used symbols that
+directly depicted the object or idea being described. In the west,
+this “short hand” evolved into phonetic symbols representing sounds
+in speech rather than the objects themselves. This early writing
+was only loosely tied to language, but the arrangement changed to a
+tight connection when the phonetic alphabet evolved and people were
+able to read aloud.</para>
+<para id="id4936349">The pictorial writing systems required an
+enormous number of symbols, but the change to a phonetic system
+reduced the number, similar to today’s western alphabets. The
+number of phonetic symbols, in fact, was initially too small since
+the alphabet had no vowels, only consonants. Words and sentences
+were not separated, and there were no paragraphs or chapters. Like
+shorthand, the written language was a prompt, enabling the reader
+to “know” what had been written (probably because he already knew
+it). Indeed, a fully phonetic alphabet, the separation of words,
+and the development of punctuation, all of which enabled silent
+reading (which occurred around the 1500s), were major advances in
+the technology of writing and the book. This was the second phase
+in the development of writing, where unanticipated developments
+were changing everything.</para>
+<para id="id4936384"><quote display="block" id="idp220176">As the change toward literacy has occurred, it
+has produced changes in the configuration of human society. . . .
+An act of <emphasis>vision</emphasis> was offered in place of an act of <emphasis>hearing</emphasis> as the
+means of communication, and as the means of storing communication.
+The adjustment that it caused was in part social, but the major
+effect was felt in the mind and the way the mind thinks as it
+speaks. (Emphasis added) <cite target-id="Havelock"><cite-title>[Havelock, p. 100]</cite-title></cite> </quote></para>
+<para id="id4936419">In addition to much-improved efficiency, the
+development of writing techniques brought along other ideas and
+changes.</para>
+<para id="id4936429"><quote display="block" id="idp2599984">The printed text is supposed to represent the
+works of an author in definitive or ‘final’ form. For print is
+comfortable only with finality. … Print culture of itself has a
+different mindset. It tends to feel a work as “closed,” set off
+from other works, a unit in itself. Print culture gave birth to the
+romantic notions of “originality” and “creativity,” which set apart
+an individual work from other works even more, seeing its origins
+and meaning as independent of outside influence, at least ideally.
+<cite target-id="Ong"><cite-title>[Ong, pp. 132-133]</cite-title></cite> </quote> </para>
+<para id="id4936458">A supportive commercial enterprise accompanied
+the development of literacy. At first, manuscripts were written
+from the orally composed stories. Perhaps Homer’s epic writings
+came into being this way. Later, manuscripts were composed directly
+in writing, never having been uttered. An industry developed that
+would copy these “originals” under commission, as a tailor sews
+suits. After a literate public developed, the scribes would make
+several copies of a manuscript and then offer them for sale much as
+a clothing store operates now. Along with this commercial side, a
+legal device came into being. If money could be made, the question
+of ownership arose and the concept of the “right to copy” or the
+“copyright” was invented.</para>
+<para id="id4936481">If we step back and look at this comparison of
+the oral and written cultures, we see still another interesting and
+pertinent dimension that has to do with physiology. If I tell you a
+story, then I transfer a piece of information from my brain into
+yours. On the other hand, if I write that story down on paper and
+you read it, then I have also transferred the piece of information
+from my brain into yours, but it has gone through a quite different
+part of the brain and nervous system. In the first case, a vocal
+and auditory process occurred. A blind person could participate. In
+the second case, an image and visual process occurred, and a deaf
+person could participate. In the first case, a person could address
+a crowd and a certain efficiency could be achieved, but in the
+second case, a much larger audience could be reached and spread
+over time as well as space.</para>
+<para id="id4936516">Technology has continued to expand both the
+means of communication, with the telephone, radio, and tape
+recorder extending the vocal/auditory process and the telegraph,
+fax, television, and email extending the visual process. Is this
+what the Sumerians and Greeks, the inventors of writing and the
+alphabet, had in mind? Surely not, but some unintended consequences
+produce phenomenally positive ends.</para>
+<para id="id4936530">In this section, we have tried to indicate the
+incredible effects that literacy has had on human culture. The
+point is that some of the predicted negative effects did occur and
+many of the positive effects that occurred were not predicted. This
+was true because the negative effects were mainly the destruction
+of something that was known. The positive effects, however,
+involved the creation of things that were completely unknown in the
+preliterate culture. Some of those positive effects were initially
+seen as negative. These factors need to be very carefully
+considered as we try to predict the future of the next phase of
+information systems. Indeed, the negative “unintended consequence”
+is the effect that we wish to understand and minimize.</para>
+<para id="id4936556">Reading and writing seem to fit the definition
+of 
+  <emphasis>technology</emphasis>
+  quite well and can be studied as such. For greater
+depth and more detail on literacy and writing, one should read the
+works of Parry, Ong, Havelock, and Goody. For an example of how
+writing and literacy are viewed as technology, see Goody’s Chapter
+8: “Technologies of the Intellect: Writing and the Written
+Word.”
+</para>
+</section><section id="Book"><title>The Book and the Printing Press</title>
+<para id="id4936588"><quote display="block" id="idm5237712">About the year 1450 some rather unusual
+“manuscripts” made their appearance in the northern regions of
+Western Europe. Although not very different in appearance from
+traditional manuscripts, they were “impressed” on paper, sometimes
+on vellum, with the mechanical aid of a printing press which used
+moveable type. <cite target-id="FebvreMartin"><cite-title>[Febvre and Martin, p. 9]</cite-title></cite> </quote></para>
+<para id="id4936612">Gutenberg’s invention of the movable-type
+printing press in the fifteenth century is widely considered, along
+with gunpowder and the compass, one of the three most influential
+inventions in history. This is a truly remarkable statement since
+the first printed books looked fairly similar to the hand-written
+books that preceded them. Nevertheless, the enormously improved
+efficiency and accuracy of machine-printed books had a powerful
+effect that continued to develop for centuries. As with other
+“disruptive technologies,” the first phase of influence was simply
+to do the old job better. Then, in the second phase, the existence
+of large numbers of inexpensive books changed the way education and
+communication took place, the way material was authored and, in the
+process, invented a new tool for mass entertainment and created a
+commercial commodity.</para>
+<para id="id4936636"><quote display="block" id="idp1871552">To bring the problem into a sharper focus: the
+advent of printing, we are told, was the most important event “in
+the cultural history of mankind;” it “brought about the most
+radical transformation in the conditions of intellectual life in
+the history of Western civilization.”  <cite target-id="Eisenstein"><cite-title>[Eisenstein, p. 115] </cite-title></cite> </quote></para>
+<para id="id4936657">This transformation occurred not only in the
+life of the elite, but in all of society. The inventions of
+literacy and the printing press brought to the masses what
+previously had been reserved for the privileged and, before that,
+the priest and the scholar. They brought a new and different
+dimension to the democratic process, the educational enterprise,
+and the religious life of the society. It is no coincidence that
+the Reformation, a democratization of Christian religious life,
+also began in Germany, within a century of Gutenberg’s invention.
+What was the obvious book to be printed by this new technology? The
+Bible. What was the obvious result? Readers—priests, educated
+laymen, even the literate poor—might read and interpret for
+themselves. Revolution. Certainly an <emphasis>unintended consequence</emphasis> but,
+perhaps with more thought, a predictable one.</para>
+<para id="id4941623">The current paper book is the result of
+technical evolution over thousands of years. It is now a mature
+technology and is being challenged by modern digital technologies.
+Stone, bone, clay, papyrus, scrolls, codex, ink, paper, and the
+printing press were all steps in its evolution. A parallel
+development of a commercial system supported the creation and
+marketing of books, resulting in the current system of authors,
+editors, publishers, book stores, and readers. We are now seeing
+the beginning of the effects of modern digital technology, mass
+storage technology, and Internet communications.</para>
+<para id="id4941640">Because the printing press had a much greater
+impact than was anticipated, we may ask if the use of electronic or
+digital information—cheaper to produce, easier to author, easier to
+alter, and almost free to distribute—will have a similar powerful,
+unexpected effect. Of course it will.</para>
+</section><section id="Hypertext"><title>Hypertext and the World Wide Web</title>
+<para id="id4941687"><quote display="block" id="idm7066032">The most remarkable species of book to
+punctuate the equilibrium of the twentieth century was the entirely
+new literary form of hypertext.  <cite target-id="Kilgour"><cite-title>[Kilgour, p. 155]</cite-title></cite> </quote></para>
+<para id="id4941700">The modern concept of hypertext seems to have
+originated with the 1945 <cite><cite-title>Atlantic Monthly</cite-title></cite> article by Vannevar Bush,
+who used his ideas of how the mind works “by associations” to
+propose the <term>memex</term>, a forerunner to linked hypertext.</para>
+<para id="id4941724">In the early 1960s, after reading Bush’s
+article, Douglas Engelbart started the Augmentation Research Center
+(ARC) at the Stanford Research Institute. The ARC used a precursor
+of hypertext in what it called the <cite><cite-title>On-Line System</cite-title></cite>. Engelbart talked
+about asynchronous collaboration among teams distributed
+geographically, about the use of computers to augment human
+intellect, and about the idea of “bootstrapping” as an iterative
+and coadaptive learning processes or a feedback system. All of
+these ideas show up in <cite><cite-title>Connexions</cite-title></cite>, to be described later.</para>
+<para id="id4941759">The actual term, “hypertext,” was coined
+around 1965 by Ted Nelson, who developed the idea in a complex
+system he called Xanadu.</para>
+<para id="id4941776"><quote display="block" id="idm5574832"> By “hypertext,” I mean non-sequential
+writing–text that branches and allows choices to the reader, best
+read at an interactive screen. As popularly conceived, this is a
+series of text chunks connected by links which offer the reader
+different pathways. <cite target-id="Nelson"><cite-title>[Nelson 1965]</cite-title></cite> </quote></para>
+<para id="id4941807">A form of hypertext has come into common use
+on the Internet and World Wide Web (WWW) with the hypertext markup
+language (HTML), the hypertext transfer protocol (HTTP), and the
+browser, <cite><cite-title>Mosaic</cite-title></cite>, which evolved into the familiar <cite><cite-title>Firefox, Netscape,
+Internet Explorer</cite-title></cite>, and other browsers. HTML enables the linking of
+a point in a text to another point in that text or another text.
+This linking is created by the author to allow a new control by the
+reader.</para>
+<para id="id4941844">This system, which breaks up the usual linear
+or sequential structure of the traditional book so that readers can
+easily branch to related topics, may be more compatible with the
+way people think and learn (that is what Bush and Engelbart had in
+mind). The traditional book tries to bring this ability with the
+use of page references, footnotes, endnotes, sidebars, and other
+print techniques. The table of contents and index are attempts to
+create a more flexible structure. In a way, these structures are
+precursors to hypertext and the digital search engines.</para>
+<para id="id4941860">Ted Nelson talks about the free-flowing live
+documents on the network being subject to constant new use and
+linkage, and those new links continually becoming interactively
+available. Any detached copy someone keeps is frozen and dead,
+lacking access to the new linkage. This is an interesting response
+to Plato’s concern about the harmful effect of literacy and
+writing. If literacy and writing “killed” the text, then perhaps
+hypertext brings it back to life in an even more flexible form.
+Indeed, it may create a format that we cannot imagine now.</para>
+<para id="id4941886">Hypertext would not have achieved its broad
+impact without the development of the modern Internet, WWW, and the
+high-density storage of hard disks and CD-ROMs. Again we have an
+interesting case of unintended consequences, with the seminal
+ARPAnet evolving from a research and defense tool into the popular
+business, educational, communication, and personal information
+lifeline it has become today.</para>
+<para id="id4941900">HTML, the hypertext markup language, not only
+implements linking, but also allows control of the display of
+material. Unfortunately, it does not do much to encode what the
+material <emphasis>means</emphasis>. A second-generation 
+  language called the
+<term>extensible
+markup language</term> (XML) is just now becoming available; it can
+distinguish between form and content. This ability will be crucial
+to bringing a new information system into being.
+</para>
+<para id="id4941924">As writing and literacy extended human memory
+and accuracy, hypertext extends the way the human mind connects and
+relates ideas and information in text. It is a way to more directly
+implement metaphor, analogies, and multidimensional relationships.
+The human mind contains ideas and stories that traditional text and
+books capture efficiently and effectively. The connections and
+relationships of ideas and the dynamic nature of thinking are
+crudely captured by traditional text, but both are better
+implemented and extended by the linking and tagging in hypertext.
+This opens a rich set of educational and perhaps artistic
+possibilities, with the combination of text and hypertext providing
+a more accurate match to the way the mind works (or might evolve
+into working).</para>
+<para id="id4941944"><quote display="block" id="idp7081216">“In an extreme view, the world can be seen as
+only connections, nothing else. We think of a dictionary as the
+repository of meaning, but it defines words only in terms of other
+words. I liked the idea that a piece of information is really
+defined only by what it’s related to, and how it’s related. … The
+structure is everything.” <cite target-id="BernersLee"><cite-title>[Berners-Lee, p. 12]</cite-title></cite> </quote></para>
+<para id="id4941967">A deep understanding of this new hypermedia
+environment is much more difficult than looking back at literacy or
+the printing press, because we are in the middle of creating it.
+That, of course, is the point of this article. Read the material by
+and about Bush, Engelbart, Nelson, Levy, Novak, Berners-Lee, and
+Landow, then use a browser on the web to see how hypertext changes
+reading and the use of information. Less positive interpretations
+of some of the unintended consequences are presented by Birkerts
+and Postman.</para>
+</section><section id="Digital"><title> The Digital Commons</title>
+<para id="id4941990">Digital computation, storage, and
+communication technology have enabled entirely new ways to create,
+organize, and exploit information. For example, as we have seen,
+hypertext breaks apart the linear sequential ordering of the book,
+giving both the author and the reader new possibilities, greater
+flexibilities, and more control. But merely publishing a book as a
+set of hypertext web pages is only the first incremental step along
+the way of the third transition. In this period, we will see all
+modes of interaction with information changed, in particular not
+just how humans interact with information but also how they
+interact with each other.</para>
+<para id="id4942009">The print age has been based on paper books
+that are loosely inter-connected through a system of citations and
+quotations. Books themselves are organized into libraries, the
+“cathedrals of learning” if you will. Consider carefully the role
+that people play in this age. Most books are written by a single
+author or a small team, and authors are only loosely connected
+together into communities. A book’s readers are generally
+completely disconnected from one another. Moreover, the time scale
+of writing, editing, peer-reviewing, an updating is on the
+time-scale of years. Since time costs money, books are expensive.
+In summary, we can describe the print age as loosely connected,
+slow-paced, and costly.</para>
+<para id="id4942032">The efficient one-to-many, one-to-one, and
+many-to-many communication links provided by the Internet and WWW
+are reinventing the book into a new information system that is
+tightly interconnected, fast-paced, and inexpensive. The core
+concept is the idea of a <term>digital commons</term>, a vast repository of
+richly inter-linked hypertext materials that is woven and tended by
+a multitude of authors worldwide. In the digital commons, authors
+can form <emphasis>communities</emphasis> to collaborate and continuously improve,
+re-use, and re-organize the material in the commons. The community
+culture created by this system could have some of the attributes of
+the “collective intelligence” of Levy, Engelbart, Licklider,
+Barabási, Weinberger, and others where the resulting whole is
+greater than the sum of its parts. The readers of the commons are
+also more tightly connected by communications technologies (email,
+discussion forums, chat rooms, blogs, wikis, and so on). If current
+libraries can be compared to Eric Raymond’s cathedrals, then the
+future digital commons will be like a bazaar.</para>
+<para id="id4942073"><quote display="block" id="idp798752">“… humanity has a chance to reclaim its
+future. Not by placing its destiny in the hands of some so-called
+intelligent mechanism, but by systematically producing the tools
+that will enable it to shape itself into intelligent communities,
+capable of negotiating the stormy seas of change.” <cite target-id="Levy"><cite-title>[Levy p.
+xxv] </cite-title></cite> </quote></para>
+<para id="id4942098">In contrast to traditional libraries, the
+digital commons is global and under continual, 24/7 expansion and
+revision. And, in sharp contrast to the “tragedy of the commons”
+often cited in the literature, this is a commons without a
+necessary tragedy; indeed, as its use grows, <cite><cite-title>Metcalfe’s Law</cite-title></cite> (which
+holds that the usefulness, or utility, of a network is proportional
+to the square of the number of users) will amplify its effect. The
+digital commons will provide new opportunities for writing,
+scholarship, reading, and learning.</para>
+<para id="id4942124"><quote display="block" id="idp1827200">… primary and secondary materials will
+interact more powerfully than before as both are online side by
+side. Scholarly discussions will quote the original by pointing to
+it, and leave the reader to explore the original context, not just
+the few words or sentences most apposite. Conversely, texts will
+acquire structured commentaries not by single hands but organized
+out of the work of many. <cite target-id="ODonnell"><cite-title> [O’Donnell, pp. 132-4]</cite-title></cite> </quote></para>
+<para id="id4942146">Indeed, this new format turns out to be
+similar to some of the modern (or postmodern) ideas in literary,
+social, and philosophical theory. Landow, Haraway, Hayles, and
+others have written on this.</para>
+<para id="id4942163">Two pillars support the emerging digital
+commons. The first is a <emphasis>common technology framework</emphasis> for sharing
+information provided by hypertext, HTML, XML, and the WWW. The
+second is a <emphasis>common legal framework</emphasis> for sharing information provided
+by open-access licenses.</para>
+<para id="id4942184">Open-access takes its inspiration from the
+free software and open-source software movements, in which
+communities of programmers create software such as the Linux
+operating system, Apache web server, and Mozilla family of browsers
+and mail tools. When a community is successful, a high-quality
+piece of work emerges from the open development process, thanks to
+many hands to do the work, many eyes to conduct a constant peer
+review, and pride of authorship and contributions to the
+community.</para>
+<para id="id4942200"><quote display="block" id="idp1783232">The most important feature of Linux, however,
+was not technical but sociological. Until the Linux development,
+everyone believed that any software as complex as an operating
+system had to be developed in a carefully coordinated way by a
+relatively small, tightly-knit group of people. … Linux evolved in
+a completely different way. From nearly the beginning, it was
+rather casually hacked on by huge numbers of volunteers
+coordinating only through the Internet. Quality was maintained not
+by rigid standards or autocracy but by the naively simple strategy
+of releasing every week and getting feedback from hundreds of users
+within days, creating a sort of rapid Darwinian selection on the
+mutations introduced by developers. To the amazement of almost
+everyone, this worked quite well. … I expect the open-source
+movement to have essentially won its point about software within
+three to five years (that is, by 2003-05). … At that point it will
+become more appropriate to try to leverage open-source insights in
+wider domains. <cite target-id="Raymond"><cite-title>[Raymond p. 194] </cite-title></cite> </quote></para>
+<para id="id4942252">In addition to a common framework for
+developing the software, what makes open-source software projects
+work is a common legal vocabulary for sharing software called an
+open-source license. The primal example is the <cite><cite-title>General Public
+License</cite-title></cite> (GPL) developed by Richard Stallman for the GNU project.
+Without the open-source license enabling anyone to use and modify
+the software, it would be impossible to build a community of
+programmers. For more, see the papers by Stallman, Raymond, Boyle,
+Lessig, and others.</para>
+<para id="id4942273">To power the digital commons, a number of
+open-content licenses have been developed for information
+resources, the most applicable to our needs being the <cite><cite-title>Creative
+Commons</cite-title></cite> license. An open-licensed digital commons turns the current
+intellectual property regime of publishing on its head. Now, an
+author can retain their copyright to their work and license it
+non-exclusively for use in the digital commons via a Creative
+Commons license. This allows other authors to adapt, improve, or
+otherwise contribute to the work (for example, fixing broken
+hyperlinks that plague the WWW today). This can be carried to the
+extreme with an open-licensed wiki system. For example, in
+<link url="http://wikipedia.org">Wikipedia (wikipedia.org) </link> anyone in the world can contribute and
+edit encyclopedia entries with a click in their browser.</para>
+</section>
+<section id="Cnx"><title>Connexions: A Digital Commons for Teaching and
+Learning</title>
+<para id="id4942566"><quote display="block" id="idp7438960">The real roles of the professor in an
+information-rich world will be not to provide information but to
+advise, guide, and encourage students wading through the deep
+waters of the information flood. Professors in this environment
+will thrive as mentors, tutors, backseat drivers, and coaches.
+<cite target-id="ODonnell"><cite-title>[O’Donnell, p. 156] </cite-title></cite> </quote></para>
+<para id="id4942585">To make things concrete, we now describe one
+particular experiment in this third wave of information technology
+targeted at education. Connexions (
+<link url="http://www.cnx.org/">http://www.cnx.org</link>) is
+so-called because it aims to connect information and ideas within
+the commons (using hypertext) and also to connect the people using
+the system into communities. Connexions is inter-disciplinary,
+inter-institutional and involves both professionals and amateurs,
+as well as professors, teachers, students, and the public.</para>
+<para id="id4942620">Connexions is a digital commons of scholarly
+materials plus an open-source software toolkit to help authors
+publish and collaborate, instructors rapidly build and share custom
+courses, and learners explore the links among concepts, courses,
+and disciplines. The design of Connexions is based on a set of
+intuitions that are shared by a remarkably wide range of academics:
+that knowledge should be free and open to use and re-use; that
+collaboration should be easier, not harder; that people should get
+credit and kudos for contributing to research and education; and
+that concepts and ideas are linked in unusual and surprising ways
+and not just the simple linear forms that textbooks present.</para>
+<para id="id4942639">Connexions creates “modules” of
+information—smallish documents intended to communicate one concept,
+one procedure, one set of questions about something. String a bunch
+of modules together, and you have a course, or weave a curriculum
+entirely of your choosing. Connexions directly challenges the
+current notion of a “textbook” by exploding it and asking different
+people to create its parts in a semi-structured but re-configurable
+manner, rather than having a single Maestro do it all and take all
+the credit.</para>
+<para id="id4942657">The hallmarks of Connexions include:</para>
+<list list-type="bulleted" id="id4942661">
+<item><emphasis>collaborative workspaces</emphasis> that support collaboration and
+community building throughout the authoring, course-building, and
+learning processes;</item>
+<item><emphasis>semantic content markup</emphasis> in XML hypertext that provides a
+common technology framework for sharing and re-using
+materials;</item>
+<item><emphasis>Creative Commons licenses</emphasis> that provide a common legal
+framework for using, modifying, and disseminating the
+content;</item>
+<item>content <emphasis>quality assessment</emphasis> using distributed,
+post-publication peer review;</item>
+<item>an attribution system to give credit to original authors and
+to those who add value.</item>
+</list>
+<para id="id4942734">Connexions is an inter-institutional endeavor.
+For example, a growing global community of electrical engineering
+faculty and researchers in the area of digital signal processing
+(DSP) from Rice University, University of Illinois, Georgia Tech,
+the University of Michigan, the Ohio State University, Polytechnic
+University, Cambridge University, Technical University of Norway,
+and the company National Instruments is collaboratively developing
+a free, open-access DSP course in Connexions.</para>
+<para id="id4942749">Note that the Connexions system can be used in
+a distance education system, but that is not its main purpose. It
+is an information system that can be used instead of or in addition
+to a traditional book in a traditional class. It can also be used
+for self-study, distance education, continuing studies, home
+schooling, industrial training, or professional credentialing. The
+basic philosophy is completely independent of level or discipline.
+It should be ideal for K-12, college, or graduate school. It will
+fit humanities, social sciences, natural sciences, engineering,
+architecture, music, business, medicine, law, or art history. It
+should interface naturally with the modern digital library. It will
+certainly be multi-media and allow experiments and demonstrations
+to be run and “discovery based learning”, “problem-solving based
+learning”, and “concept based learning” to take place.</para>
+<para id="id4942792">Connexions can make high quality material
+available to all students and all educational activities all over
+the world with fairly inexpensive equipment. If developed properly,
+it can significantly reduce the “digital divide” that separates the
+information “haves” from the “have nots.” Because it is platform or
+hardware independent, it can be used with many new projects to
+provide internet access more broadly.</para>
+<para id="id4942820">The third transition that we are in the middle
+of just now will probably have two phases, much as most disruptive
+technologies. As we move from the traditional printed book,
+lecture, laboratory, and library paradigm to an electronic and
+digital system using the web, internet, and modern magnetic and
+optical storage devices, the first phase will do the old job
+better. We will put our courses on the web. We will put our books
+on the web. We will scan books and build digital libraries. But,
+most of this material was written for traditional publication and
+use. It was written by authors with traditional skills and
+traditional mind-sets but using modern tools and media.</para>
+<para id="id4942847">The second phase of this transition will use
+the full power of semantic tagging, metadata, and XML together with
+a better understanding of how humans process information in their
+brains and how we all learn. In the first phase we take material
+that was created to be used in traditional media and put it “on the
+web”. We put the book that we were writing into Connexions. We scan
+books and put the digital information into the digital library. In
+the second phase we will create information packets specifically
+for Connexions, XML, or the Semantic Web. We will have a mixture of
+text, virtual labs, demonstrations, etc. that cause us to teach and
+our students to learn in a different way. That will, in turn, cause
+us to create material in a different fashion.</para>
+<para id="id4942875">In the transition from an oral tradition to
+literacy and a written tradition, the first phase was just a better
+version of the old. Authors wrote down the stories that they
+earlier told. Readers read aloud to “hear” the stories as they had
+before. As the technology of writing developed, people learned to
+read silently and authors wrote to be read, not heard.</para>
+<para id="id4942896">We currently seem to be in the middle of the
+first phase of our modern transition, but are beginning to see an
+image of the second. Although there is a great temptation to jump
+to the end, we will probably need the experiences and experiments
+of the first phase to best develop the second phase and minimize
+the negative “unintended consequences”. We will need to put our
+books and articles into <cite><cite-title>Connexions</cite-title></cite> and scan our traditional library
+books to create our digital library before we will know how to
+create material specifically for digital use.</para>
+</section><section id="Conclusions"><title>Conclusions</title>
+<para id="id4942950">Daniel Headrick argues “that the information
+revolution in which we live is the result of a cultural change that
+began roughly three centuries ago, a change as important as the
+political and industrial revolutions for which the eighteenth and
+early nineteenth centuries are so well known.” We are now seeing
+this revolution reach a climax.</para>
+<para id="id4942972">From our studying and reading about writing,
+literacy, and the printing press, we have concluded that we are
+indeed in the midst of a third major information transition that
+will be as important and startling as the first two. We want to
+create a system or a setting in which this new world can flourish
+and be a positive contribution to humanity. We want it to be as
+close to the way the mind works as possible, while allowing future
+extensions beyond what we can now predict regarding new theories of
+learning, teaching, and discovery, as well as new information
+technologies.</para>
+<para id="id4942994">The <cite><cite-title>Connexions</cite-title></cite> Project has been designed to be
+sufficiently open and flexible to allow for these future unknowns,
+yet specific enough to have standards for current implementation.
+The ability of XML to control both form and content is essential to
+the spirit and future of Connexions. The modular format with
+hypertext linking seems to fit the way the mind works, yet allows
+for future discoveries in cognitive science and learning theory.
+The digital commons will allow input from top experts in any field
+and a post-review system will allow identifying the best material
+without restricting input.</para>
+<para id="id4943018">The current classroom lecture method used in
+schools, colleges, and training programs results in students’
+having a difficult transition to self-learning. The use of
+Connexions could greatly reduce that transition. It could be a true
+life-long learning system. This single system can be used for
+teaching, learning, and discovery and be open to the invention of
+unpredictable new technologies. If these statements are true, we
+will indeed have a third transition as important as those created
+by writing and the printing press.</para>
+</section><section id="Ack"><title>Acknowledgements</title>
+<para id="id4943053">For opening the doors to the histories of
+writing and books, we thank Profs. Albert van Helden, Anthony
+Gorry, and Werner Kelber of Rice University along with the authors
+whose books are listed below. For the development of Connexions, we
+thank Don Johnson, Bill Wilson, Chris Kelty, Brent Hendricks, Ross
+Reedstrom, Douglas Jones, and the staff of Connexions. For
+organizational planning, leadership, and financial support, we
+thank Robert Maxfield, William Sick, Burton McMurtry, Michael
+Stewart, Tom and Nancy Eubank, Chuck Henry, Geneva Henry, Gil
+Whitaker, Katie Cervenka, Malcolm Gillis, the administration of
+Rice University, and the Hewlett Foundation. For help in rewriting
+this paper, we thank several friends and colleagues. We also
+acknowledge and thank our collaborators at other universities and
+foundations in the US and all over the world and acknowledge our
+debt to the many other similar and complimentary projects.</para>
+</section>
+<section id="idp1821232"><title>All References</title>
+<para id="technote"> For technical reasons, there are two reference sections in this paper. This first section is an extended reference list in text format in the approximate order in which they are relevant in the paper. The quoted references within the paper are repeated below this list under "References" so that links from the quotes to the references work.</para>
+<list list-type="enumerated" id="id4943094">
+<item>Walter J. Ong, Orality &amp; Literacy: The Technologizing of
+the Word, Routledge, 1982.</item>
+<item>Eric A. Havelock, The Muse Learns to Write: Reflections on
+Orality and Literacy, Yale Press, 1986</item>
+<item>Jack Goody, The Interface Between the Written and the Oral,
+Cambridge, 1987.</item>
+<item>Michael E. Hobart and Zachary S. Schiffman, Information Ages:
+Literacy, Numeracy, and the Computer Revolution, Johns Hopkins,
+1998.</item>
+<item>Jack Goody, The Power of the Written Tradition, Smithsonian,
+2000.</item>
+<item>Elizabeth L. Eisenstein, The Printing Revolution in Early
+Modern Europe, Cambridge, 1983. This is a combined and abridged
+version of the 1979 editions.</item>
+<item>Lucien Febvre and Henri-Jean Martin, The Coming of the Book:
+The Impact of Printing, 1450-1800, Verso, 1958, 1976, 1990.</item>
+<item>Henri-Jean Martin, The History and Power of Writing, Chicago,
+1988, 1994. Surveys writing from cave painting up to current
+information net.</item>
+
+
+<item>Frederick G. Kilgour, The Evolution of the Book, Oxford,
+1998. This book aims to shed light on the present emergence of the
+electronic book.</item>
+
+
+<item>Jason Epstein, Book Business: Publishing, Past Present and
+Future, Norton, 2001.</item>
+
+
+<item>James A. Dewar, “The Information Age and the Printing Press:
+Looking Backward to See Ahead”, RAND report P-8014, 1998; also
+published in Ubiquity (on-line ACM journal), vol. 1, issue
+25.</item>
+
+
+<item>Margaret Hedstrom and John Leslie King, “On the LAM:
+Libraries, Archives, and Museums as Epistemic Infrastructure”,
+University of Michigan, Draft distribution, February, 2005.</item>
+
+
+<item>Neil Rhodes and Jonathan Sawday, The Renaissance Computer:
+Knowledge Technology in the first Age of Print, Routledge,
+2000.</item>
+
+
+<item>James J. O'Donnell, Avatars of the Word: from Papyrus to
+Cyberspace, Harvard, 1998.</item>
+
+
+<item>Terrence W. Deacon, The Symbolic Species: The Co-evolution of
+Language and the Brain, Norton, 1997.</item>
+
+
+<item>George P. Landow, Hypertext 2.0:The Convergence of
+Contemporary Critical Theory and Technology, Johns Hopkins, 1997.
+Landow shifts focus from Intermedia to Microcosm, Storyspace, and
+the World Wide Web in this second edition of the 1992 book.</item>
+
+
+<item>Ilana Snyder, Hypertext: The Electronic Labyrinth, Melbourne,
+1996</item>
+
+
+<item>Vannevar Bush, “As We May Think”, The Atlantic Monthly, Vol.
+176, No. 1, pp 101-108, July 1945</item>
+
+
+<item>James M. Nyce and Paul Kahn, editors, From Memex to
+Hypertext: Vannevar Bush and the Mind’s Machine, Academic Press,
+1991. Contains Bush’s Atlantic article.</item>
+
+
+<item>Pierre Levy, Collective Intelligence: Mankind’s Emerging
+World in Cyberspace, Plenum Trade, 1995, translation 1997.</item>
+
+
+<item>Douglas C. Engelbart, “Augmenting Human Intellect: A
+Conceptual Framework”, Stanford Research Institute, Tech Report
+AFOSR-3233, SRI Proj. 3578, October 1962.</item>
+
+
+<item>George Lakoff, “The Contemporary Theory of Metaphor”, in
+Metaphor and Thought (2nd edition) edited by Andrew Ortony,
+Cambridge, 1993, pp. 202-251.</item>
+
+
+<item>Theodor H. Nelson, Computer Lib/Dream Machines, 1974, 1987.
+Tempus Books of Microsoft Press, now out of print.</item>
+
+
+<item>Thierry Bardin, Bootstrapping: Douglas Engelbart,
+Coevolution, and the Origins of Personal Computing, Stanford Press,
+2000.</item>
+
+
+<item>Tim Berners-Lee, Weaving the Web, The Original Design and
+Ultimate Destiny of the World Wide Web, HarperBusiness,
+1999.</item>
+
+
+<item>Sven Birkerts, The Gutenberg Elegies: The Fate of Reading in
+an Electronic Age, Fawcett, 1994.</item>
+
+
+<item>Neil Postman, Technopoly: The Surrender of Culture to
+Technology, Vintage, 1993.</item>
+
+
+<item>Greg Kearsley, Online Education: Learning and Teaching in
+Cyberspace, Wadsworth, 2000.</item>
+
+
+<item>Robert Stephenson, “The Harvey Project: Open Course
+Development and Rich Content”, Chapter XVI in Cases on Information
+Technology in Higher Education, Lisa Petrides, editor, Idea Group
+Publishing, 2000, pp. 185-194.</item>
+
+
+<item>Frank P. Coyle, “XML, Web Services, and the Changing Face of
+Distributed Computing”, Ubiquity, vol. 3, no. 10, April 23, 2002;
+An ACM Web-Based Magazine.</item>
+
+
+<item>Eric S. Raymond, The Cathedral and the Bazaar:Musings on
+Linux and Open Source by an Accidental Revolutionary, O'Reilly,
+revised edition, 2001, and on-line. Foreword by Bob Young of Red
+Hat.</item>
+
+
+<item>Sam Williams, Free as in Freedom: Richard Stallman’s Crusade
+for Free Software, O’Reilly &amp; Assoc., 2002.</item>
+
+
+<item>James Boyle, Shamans, Software, &amp; Spleens, Law and the
+Construction of the Information Society, Harvard Press,
+1996.</item>
+
+
+<item>James Boyle, “The Second Enclosure Movement and the
+Construction of the Public Domain”, for the Conference on the
+Public Domain at Duke Law School, Oct. 2001.</item>
+
+
+<item>Lawrence Lessig, The Future of Ideas: The Tale of the Commons
+in a Connected World, Random House, 2001.</item>
+
+
+<item>Mary Jo Carnot, et al, “Concept Map vs. Web Pages for
+Information Searching and Browsing”, Institute for Human and
+Machine Cognition, Univ. of West Florida, 2002.
+www.coginst.uwf.edu.</item>
+
+
+<item>Richard Baraniuk, et al, Connexions: Education for a
+Networked World, Rice University, 2004. A white paper on the
+Connexions Project available on the Connexions web site:
+http://cnx.rice.edu/</item>
+
+
+<item>R. G. Baraniuk, et. al., “Connexions: DSP Education for a
+Networked World”, Transactions of the IEEE International Conference
+on Acoustics, Speech, and Signal Processing, Orlando, Florida, May
+2002.</item>
+
+
+<item>Richard G. Baraniuk and C. Sidney Burrus, “The Connexions
+Project: Education for a Networked World”, ASEE/SEFI/TUB
+International Colloquium on “Global Changes in Engineering
+Education”, Technical University of Berlin, October 2002.</item>
+
+
+<item>David Weinberger, Small Pieces Loosely Joined: A Unified
+Theory of the Web, Perseus, 2002. In the tradition of Marshall
+McLuhan … a startlingly fresh look at a new medium.</item>
+
+
+<item>Albert-László Barabási, Linked: The New Science of Networks,
+Perseus, 2002. How Everything is connected to everything else and
+what it means for science, business and everyday life.</item>
+
+
+<item>Steven Johnson, Emergence: The Connected Lives of Ants,
+Brains, and Software, Scribner, 2001. About why the whole is
+sometime smarter than the sum of its parts.</item>
+
+
+<item>Lord Dahrendorf, et al, The Paradoxes of Unintended
+Consequences, Central European University Press, 2000.</item>
+
+
+<item>Margret Hilton, Editor, Enhancing Undergraduate Learning with
+Information Technology, National Academy Press, 2002. A summary of
+a National Research Council supported workshop on IT in Education
+held in June 2000.</item>
+
+
+<item>Anne H. Moore, “Lens on the Future: Open-Source Learning”,
+Educause Review, Sept.-Oct. 2002, pp 43-51.</item>
+
+
+<item>Tim Berners-Lee, James Hendler, and Ora Lassila, “The
+Semantic Web,” Scientific American, May 17, 2001. A new form of Web
+content that is meaningful to computers will unleash a revolution
+of new possibilities</item>
+
+
+<item>W. A. Wulf chair, “Choosing the Future: Information
+Technology and the Research University”, Report from the ICT
+Project, published by the National Research Council. 2002.</item>
+
+
+<item>C. Sidney Burrus, chair of Steering Committee, Workshop on IT
+in Education, Report of NAE Workshop held in Washington DC on Nov.
+8, 2002. NRC Press, 2003.</item>
+
+
+<item>G. Henry, R. G. Baraniuk, and C. Kelty, “The Connexions
+Project: Promoting Open Sharing of Knowledge for Education,”
+Syllabus, July 2003.</item>
+
+
+<item>Jeffery Selingo, “Connecting the Dots”, ASEE Prism, American
+Society of Engineering Education, vol. 13, no. 4, Dec. 2003, pp
+34-37.</item>
+
+
+<item>Richard G. Baraniuk, C. Sidney Burrus, Don H. Johnson, and
+Douglas L. Jones, “Sharing Knowledge and Building Communities in
+Signal Processing”, IEEE Signal Processing Magazine, vol.21, no. 5,
+September 2004, pp. 10-16.</item>
+
+
+<item>C. Sidney Burrus, Richard G. Baraniuk, J. Patrick Frantz, and
+Christian Holmes, “Connexions: Sharing Knowledge and Building
+Communities for Global Education”, Proceedings of the ASEE
+International Colloquium on Engineering Education, Tsinghua
+University, Beijing, China, September 7-10, 2004.</item>
+<item>Daniel R. Headrick, When Information Came of Age:
+Technologies of Knowledge in the Age of Reason and Revolution, 1700
+– 1850, Oxford, 2000.</item>
+
+
+<item>Erik Davis, Techgnosis: Myth, Magic, and Mysticism in the Age
+of Information, Three Rivers Press, New York, 1998.</item>
+
+
+<item>Gail Hawisher and Cynthia Selfe, Passions, Pedagogies, and
+21st Century Technologies, USU Press and the NCTE, 1999</item>
+
+
+<item>Howard Rheingold, Tools for Thought, The History and Future
+of Mind-Expanding Technology, MIT Press, 1985.</item>
+
+
+<item>M. Mitchell Waldrop, The Dream Machine:J. C. R. Licklider and
+the Revolution that Made Computing Personal, Viking, 2001.</item>
+
+
+<item>James Gillies and Robert Cailliau, How the Web was Born,
+Oxford Press, 2000. The Story of the World Wide Web</item>
+
+
+<item>Mitchell Stephens, The Rise of the Image, The Fall of the
+Word, Oxford, 1998.</item>
+
+
+<item>Joseph D. Novak, Learning, Creating, and Using Knowledge:
+Concept Maps as Facilitative Tools in Schools and Corporations,
+Lawrence Erlbaum Assoc., 1998.</item>
+
+
+<item>Mark Stefik, Internet Dreams: Archetypes, Myths, and
+Metaphors, MIT Press, 1996. An edited collection of essays and
+reprints with foreword by Vinton Cerf</item>
+
+
+<item>Steven Brint, editor, The Future of the City of Intellect:
+The Changing American University, Stanford University Press,
+2002.</item>
+
+
+<item>Chris Anderson, The Long Tail: A Public Diary on the Way to a
+Book, to appear 2006.</item>
+
+
+<item>Robert D. Austin and Stephen P. Bradley, The Broadband
+Explosion: Leading Thinkers on the Promise of a Truly Interactive
+World, Harvard Business School Press, 2005.</item>
+
+
+<item>John Willinsky, The Access Principle, The Case for Open
+Access to Research and Scholarship, MIT Press, 2005.</item>
+
+
+<item>Edward C. Rosenthal, The Era of Choice, The Ability to Choose
+and Its Transformation of Contemporary Life, MIT Press, 2005</item>
+
+</list>
+<para id="id4944618">A longer list of references is available from
+the authors.</para>
+</section>
+</content>
+      <bib:file>
+        <bib:entry id="BernersLee">
+          <bib:book>
+            <bib:author>
+              Tim Berners-Lee
+            </bib:author>
+            <bib:title>
+              Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web
+            </bib:title>
+            <bib:publisher>
+              Collins
+            </bib:publisher>
+            <bib:year>
+              2000
+            </bib:year>
+            <bib:month>
+              November
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Eisenstein">
+          <bib:book>
+            <bib:author>
+              Elizabeth L. Eisenstein
+            </bib:author>
+            <bib:title>
+              The Printing Revolution in Early Modern Europe
+            </bib:title>
+            <bib:publisher>
+              Cambridge University Press
+            </bib:publisher>
+            <bib:year>
+              2005
+            </bib:year>
+            <bib:month>
+              September
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="FebvreMartin">
+          <bib:book>
+            <bib:author>
+              Lucien Febvre and Henri-Jean Martin
+            </bib:author>
+            <bib:title>
+              The Coming of the Book: The Impact of Printing 1450-1800 (Verso Classics, 10)
+            </bib:title>
+            <bib:publisher>
+              Verso
+            </bib:publisher>
+            <bib:year>
+              1997
+            </bib:year>
+            <bib:month>
+              January
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Goody">
+          <bib:book>
+            <bib:author>
+              Jack Goody
+            </bib:author>
+            <bib:title>
+              The Interface between the Written and the Oral (Studies in Literacy, the Family, Culture and the State)
+            </bib:title>
+            <bib:publisher>
+              Cambridge University Press
+            </bib:publisher>
+            <bib:year>
+              1987
+            </bib:year>
+            <bib:month>
+              July
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Havelock">
+          <bib:book>
+            <bib:author>
+              Eric A. Havelock
+            </bib:author>
+            <bib:title>
+              The Muse Learns to Write : Reflections on Orality and Literacy from Antiquity to the Present
+            </bib:title>
+            <bib:publisher>
+              Yale University Press
+            </bib:publisher>
+            <bib:year>
+              1988
+            </bib:year>
+            <bib:month>
+              July
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Kilgour">
+          <bib:book>
+            <bib:author>
+              Frederick G. Kilgour
+            </bib:author>
+            <bib:title>
+              The Evolution of the Book
+            </bib:title>
+            <bib:publisher>
+              Oxford University Press, USA
+            </bib:publisher>
+            <bib:year>
+              1998
+            </bib:year>
+            <bib:month>
+              April
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Levy">
+          <bib:book>
+            <bib:author>
+              Pierre Levy
+            </bib:author>
+            <bib:title>
+              Collective Intelligence: Mankind's Emerging World in Cyberspace
+            </bib:title>
+            <bib:publisher>
+              Perseus Books Group
+            </bib:publisher>
+            <bib:year>
+              1997
+            </bib:year>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Nelson">
+          <bib:book>
+            <bib:author>
+              Theodor H. Nelson
+            </bib:author>
+            <bib:title>
+              Computer Lib/Dream Machines
+            </bib:title>
+            <bib:publisher>
+              Tempus Books of Microsoft Press, now out of print.
+            </bib:publisher>
+            <bib:year>
+              1947,1987
+            </bib:year>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="ODonnell">
+          <bib:book>
+            <bib:author>
+              James J. O'Donnell
+            </bib:author>
+            <bib:title>
+              Avatars of the Word: From Papyrus to Cyberspace
+            </bib:title>
+            <bib:publisher>
+              Harvard University Press
+            </bib:publisher>
+            <bib:year>
+              2000
+            </bib:year>
+            <bib:month>
+              May
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Ong">
+          <bib:book>
+            <bib:author>
+              Walter J. Ong
+            </bib:author>
+            <bib:title>
+              Orality and Literacy (New Accents)
+            </bib:title>
+            <bib:publisher>
+              Routledge
+            </bib:publisher>
+            <bib:year>
+              2002
+            </bib:year>
+            <bib:month>
+              May
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Raymond">
+          <bib:book>
+            <bib:author>
+              Eric S. Raymond
+            </bib:author>
+            <bib:title>
+              The Cathedral
+&amp;
+              the Bazaar (paperback)
+            </bib:title>
+            <bib:publisher>
+              O'Reilly
+            </bib:publisher>
+            <bib:year>
+              2001
+            </bib:year>
+            <bib:month>
+              January
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+        <bib:entry id="Stephens">
+          <bib:book>
+            <bib:author>
+              Mitchell Stephens
+            </bib:author>
+            <bib:title>
+              The Rise of the Image the Fall of the Word
+            </bib:title>
+            <bib:publisher>
+              Oxford University Press
+            </bib:publisher>
+            <bib:year>
+              1998
+            </bib:year>
+            <bib:month>
+              August
+            </bib:month>
+          </bib:book>
+        </bib:entry>
+      </bib:file>
+</document>
